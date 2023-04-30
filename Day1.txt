@@ -1,0 +1,75 @@
+Python Programming
+----------------------
+
+Python is High level general purpose Programming language.
+Python is open source language.
+Platform independent
+
+
+History
+-----------
+The implementation of Python was started in the December 1989 by Guido Van Rossum at CWI in 
+Netherland.
+▪ In February 1991, van Rossum published the code (labeled version 0.9.0).
+▪ In 1994, Python 1.0 was released with new features like: lambda, map, filter, and reduce.
+▪ Python 2.0 added new features like: list comprehensions, garbage collection system.
+▪ On December 3, 2008, Python 3.0 (also called "Py3K") was released. 
+▪ Python is influenced by :
+– ABC language.
+– Modula-3
+
+Download and install Python on Window
+
+ways to run python code
+---------------------------
+1) Run python code through IDLE (Python shell)
+2) Run python code through cmd
+3) Run python code through notepad/notepad++
+
+PyCharm -- popular IDE for python
+
+comments
+------
+▪ Comments are used to write description about application logics to understand the logics easily.
+▪ The main objective comments the code maintenance will become easy.
+▪ The comments are non-executable code.
+▪ Python will ignore comments in run time
+
+keywords
+-----------
+reserved words in python
+
+
+Variables
+------------------
+▪ A variable is nothing but a reserved memory location to store values.
+▪ Variables are used to store the data.
+▪ Memory allocated when the values are stored in variables.
+▪ Every variable must have some type
+
+
+
+Data types
+------------
+Text Type:	str
+Numeric Types:	int, float
+Sequence Types:	list, tuple
+Mapping Type:	dict
+Set Types:	set
+Boolean Type:	bool
+
+x=100
+s="welcome"
+x="welcome"
+
+
+Dynamically typed programming language..
+
+
+
+
+
+
+
+
+

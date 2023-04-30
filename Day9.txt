@@ -1,0 +1,36 @@
+Day-9
+-----------
+
+Agile scrum activites
+----------------------
+
+Jira Link: https://pavanonlinetrainings.atlassian.net/
+
+(YOU HAVE TO CREATE YOUR OWN JIRA LINK)
+
+How to install and configure JIRA tool
+How to create Project in Jira
+How to add users/people in Jira
+
+How to create Epic & User Stories in JIRA
+Creating sprint in Jira
+Adding user stories to sprint
+Starting sprint
+Adding sub Tasks to Story
+Sprint life cycle in JIRA
+Creating bugs in Jira
+
+Test management activities
+-----------------------
+
+** Test Management activites can be done in Jira using Zephyr plugin 
+Setup:
+	
+	1) Jira settings-->Addons --> Zephyr plugin
+	2) Adding issue type "test" 
+		Select project-->Project settings-->Issue types-->Actions-->EDIT Issue types
+	
+How to create test cases in JIRA with Zephyr plugin 
+Creating Test Cycles 
+Execute/update Test cases in Jira
+Checking Reports

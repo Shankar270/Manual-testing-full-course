@@ -1,0 +1,74 @@
+Selenium with Python - Introduction
+----------------------------------------
+
+Software testing is the process of finding defects in a software.
+The goal is to release quality software to the customer/client.
+
+1) Manual testing
+2) Automation testing
+
+Manual Testing -Testing software manually wheather it is working according to customer requiremetns or not. 
+Automation testing -Testing software by using automation tool. 
+
+
+challenges in Manual testing
+-------------
+Re-testing
+Regression testing
+
+Time, effort
+
+Automation Over comes the problems in manual testing..
+	1) Reduce time
+	2) Reduce human effort.
+
+why programming is required to learn automation tool...
+
+
+Selenium Advantages
+-------------------
+1) Open source tool
+2) Multiple operating systems
+3) Supports multiple browsers
+4) Support multiple Languages(java, python, c#, Ruby, Javascript etc..)
+5) Integrate third party tools in to selenium
+
+
+DisAdv/Limitations
+--------------
+1) Cannot support windows based applications(winapp,Robot API)
+2) Reporting not supported(pytest)
+3) Cannot support excel files(openpyxl)
+4) graphs,captua
+5) Cant automation Angular JS applications 
+
+
+1) desktop/window based applications
+2) web applications - browser
+3) Mobile apps
+
+
+Selenium is not a single tool----> IDE, WebDriver, Grid, RC
+
+https://www.selenium.dev/downloads/
+
+
+
+Selenium Versions
+-------------------
+Selenium 1.x  --> IDE(Firefox), RC, Grid
+Selenium 2.x  --> IDE(firefox), WebDriver,Grid
+Selenium 3.x -->IDE(firefox,chrome),WebDriver,Grid
+3.141.x --> Stable
+4 ---a beta
+
+------------------------
+duration 6-7 weeks
+Session duration (Mon-fri)  1 to 1.5 hours
+
+Google Drive - same link
+Zoom link - same
+  
+
+
+
